@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/java/com/song/jsf/example/SimpleCrudBean.java</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/java/com/song/jsf/example/TipoDocumento.java</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/conf/MANIFEST.MF</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/java/com/song/web/filter/NocacheFilter.java</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/java/com/song/jsf/example/util/AppUrlStore.java</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/web/META-INF/context.xml</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/web/index.xhtml</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/java/com/song/jsf/example/Persona.java</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/src/java/com/song/jsf/example/util/CommonUtils.java</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/web/WEB-INF/web.xml</file>
+            <file>file:/D:/poc/jsf-app-netbeans-example/web/simplecrud.xhtml</file>
+        </group>
+    </open-files>
+</project-private>
